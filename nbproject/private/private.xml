@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/Conexao/ConectaDB.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/UsuDAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/modelo/Usuario.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/web/conteudo/conteudo_cadas.jsp</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/web/index.html</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/web/menu/telainicial.jsp</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/web/videos_usu/meus_videos.jsp</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/web/videos_usu/editar_conteudo.jsp</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/controle/EditarConteudoServlet.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/controle/LoginServelet.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/controle/ConteudoCadastrar.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/web/login/usuario_cons.jsp</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/UsuDAO/ConteudoDAO.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/modelo/Conteudo.java</file>
+            <file>file:/C:/Users/Fábio/Documents/AprendaFlixFab0/src/java/UsuDAO/CategoriaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
